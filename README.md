@@ -4,7 +4,7 @@ This data is the basin country units that are used for the Transboundary Freshwa
 the country portions of a given basin. The TFDD is composed of BCUs, basins, and countries and the BCUs is one of the main
 units of visualization which will displayed and selectable to display statistics of various variables for the final project.
 
-The original geojson was simplifed by 30% to create the simplified geojson. 
+The original geojson was simplifed by 30% on MapShapper to create the simplified geojson.
 
 | File                  | File Size |
 | --------------------- | --------- |
